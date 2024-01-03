@@ -235,7 +235,7 @@ lol-uikit-full-page-backdrop {
 
 .play-button-container{
   background-image: none !important; /*url('http://mmmx22.ct8.pl/play-button-violet.png') !important;*/
-  background: linear-gradient(-90deg, #382B7A, #241666) !important;
+  background: linear-gradient(-90deg, #2b6a7a, #164666) !important;
   border-radius: 50px !important;
   border: 2px solid #00c3ff!important;
   filter: drop-shadow(1px 1px 8px #00c3ff) !important;
@@ -837,7 +837,7 @@ lol-uikit-video-state-machine{
 }
 
 .play-button-content{
-  left: 30px !important;
+  left: 10px !important;
 }
 
 :host .parties-status-card.open {

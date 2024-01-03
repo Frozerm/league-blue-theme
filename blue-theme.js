@@ -8,5 +8,5 @@ function addCss(filename) {
 
 window.onload = () => {
   // External CDN for css hosting.
-  addCss("https://raw.githack.com/floyare/league-purple-theme/main/assets/theme.css");
+  addCss("https://raw.githack.com/Frozerm/league-blue-theme/main/assets/theme.css");
 }
