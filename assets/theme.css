@@ -793,7 +793,7 @@ lol-uikit-flat-button-secondary{
 
 
 .basic-button{
-  left: 470px !important;
+  left: 32vw !important;
   height: 48px !important;
   width: 122px !important;
   top: 15px !important;
@@ -837,7 +837,7 @@ lol-uikit-video-state-machine{
 }
 
 .play-button-content{
-  left: 100px !important;
+  left: 10px !important;
 }
 
 :host .parties-status-card.open {
