@@ -837,7 +837,7 @@ lol-uikit-video-state-machine{
 }
 
 .play-button-content{
-  left: 10px !important;
+  left: 100px !important;
 }
 
 :host .parties-status-card.open {

@@ -8,5 +8,5 @@ Purple theme for league-loader.
     > Version: 0.6.0
 
 # How to install:
- * Copy `purple-theme.js` to your `plugins` folder.
+ * Copy `blue-theme.js` to your `plugins` folder.
 
